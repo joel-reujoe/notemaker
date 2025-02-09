@@ -8,4 +8,10 @@ The notemaker is a useful app if you are someone who likes making notes of diffe
 :ballot_box_with_check: Android Studio (Java based code)
 
 ## images
-
+<p align="center">
+<img src="https://github.com/joel-reujoe/notemaker/blob/master/images/image1.jpeg?raw=true" alt="Logo" width="300">
+<img src="https://github.com/joel-reujoe/notemaker/blob/master/images/image2.jpeg?raw=true" alt="Logo" width="300">
+<img src="https://github.com/joel-reujoe/notemaker/blob/master/images/image3.jpeg?raw=true" alt="Logo" width="300">
+<img src="https://github.com/joel-reujoe/notemaker/blob/master/images/image4.jpeg?raw=true" alt="Logo" width="300">
+<img src="https://github.com/joel-reujoe/notemaker/blob/master/images/image5.jpeg?raw=true" alt="Logo" width="300">
+</p>
