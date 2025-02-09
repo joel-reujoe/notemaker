@@ -6,3 +6,6 @@ The notemaker is a useful app if you are someone who likes making notes of diffe
 ## tech stack
 
 :ballot_box_with_check: Android Studio (Java based code)
+
+## images
+
